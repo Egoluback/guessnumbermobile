@@ -14,8 +14,8 @@ body{
     float: left;
     padding: 2px;
     margin: 5px;
-    width: 15vw;
-    min-height: 15vw;
+    width: 30vw;
+    min-height: 20vw;
     background-color: rgb(226, 226, 226);
     cursor: pointer;
     user-select: none;
