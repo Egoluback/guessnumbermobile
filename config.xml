@@ -52,6 +52,6 @@
 <icon platform="android" src="package-assets/faviconAndr3.png" density="hdpi" width="72" height="72"/>
 <icon platform="android" src="package-assets/faviconAndr4.png" density="xhdpi" width="96" height="96"/>
 <config-file platform="android" parent="/manifest/application" mode="merge"> 
-    <activity android:launchMode="singleTop" android:name=".Memory game" android:label="@string/memory" android:screenOrientation="landscape" />
+    <activity android:launchMode="singleTop" android:name=".Memory game" android:label="@string/app_name" android:screenOrientation="landscape" />
 </config-file>
 </widget>
