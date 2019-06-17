@@ -47,9 +47,7 @@
     <preference name="Fullscreen" value="false"/>
     <preference name="Orientation" value="default"/>
 </platform>
-<activity android:name=".memory" 
-        android:label="@string/app_name"
-        android:screenOrientation="landscape" >
+<activity android:name=".memory" android:label="@string/app_name" android:screenOrientation="landscape" >
 <icon platform="android" src="package-assets/faviconAndr1.png" density="ldpi" width="36" height="36"/>
 <icon platform="android" src="package-assets/faviconAndr2.png" density="mdpi" width="48" height="48"/>
 <icon platform="android" src="package-assets/faviconAndr3.png" density="hdpi" width="72" height="72"/>
