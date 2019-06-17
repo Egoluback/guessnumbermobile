@@ -1,3 +1,8 @@
+@font-face{
+    font-family: 'Oswald';
+    src: url('fonts/Oswald-Medium.ttf');
+}
+
 *{
     outline: none;
 }
@@ -15,7 +20,7 @@ body{
     padding: 2px;
     margin: 3px;
     width: 20vw;
-    min-height: 10vw;
+    min-height: 20vw;
     background-color: rgb(226, 226, 226);
     cursor: pointer;
     user-select: none;
